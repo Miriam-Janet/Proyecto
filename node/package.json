@@ -26,5 +26,12 @@
     "mocha": "^4.0.1",
     "nodemon": "^1.17.3",
     "supertest": "^3.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/accenture/wize-devops/issues"
+  },
+  "homepage": "https://github.com/accenture/wize-devops#readme",
+  "directories": {
+    "test": "test"
   }
 }
