@@ -2,5 +2,5 @@ projectKey=node
 serverUrl=http://ec2-3-138-139-84.us-east-2.compute.amazonaws.com:9000
 serverVersion=8.9.7.52159
 dashboardUrl=http://ec2-3-138-139-84.us-east-2.compute.amazonaws.com:9000/dashboard?id=node
-ceTaskId=AX-WbR-MvG46e88VoHZ8
-ceTaskUrl=http://ec2-3-138-139-84.us-east-2.compute.amazonaws.com:9000/api/ce/task?id=AX-WbR-MvG46e88VoHZ8
+ceTaskId=AX-Z-J8DvG46e88VoHaF
+ceTaskUrl=http://ec2-3-138-139-84.us-east-2.compute.amazonaws.com:9000/api/ce/task?id=AX-Z-J8DvG46e88VoHaF
