@@ -6,6 +6,7 @@ pipeline {
             steps {
                 echo 'Building..'
 		sh 'npm install'
+		sh 'npm install --global mocha'
             }
         }
         stage('Test') {
