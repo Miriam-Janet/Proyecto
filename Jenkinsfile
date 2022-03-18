@@ -4,8 +4,9 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Building..'
+                echo 'Building.. Installing dependencies'
 		sh 'npm install'
+		echo 'Install mocha'
 		sh 'npm install --global mocha'
             }
         }
