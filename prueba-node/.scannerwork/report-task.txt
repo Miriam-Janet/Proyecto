@@ -1,6 +1,0 @@
-projectKey=prueba-node
-serverUrl=http://ec2-3-138-139-84.us-east-2.compute.amazonaws.com:9000
-serverVersion=8.9.7.52159
-dashboardUrl=http://ec2-3-138-139-84.us-east-2.compute.amazonaws.com:9000/dashboard?id=prueba-node
-ceTaskId=AX-WbZJ-vG46e88VoHZ9
-ceTaskUrl=http://ec2-3-138-139-84.us-east-2.compute.amazonaws.com:9000/api/ce/task?id=AX-WbZJ-vG46e88VoHZ9
